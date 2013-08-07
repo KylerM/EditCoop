@@ -1,0 +1,4 @@
+EditCoop
+========
+
+A collaborative editor.
